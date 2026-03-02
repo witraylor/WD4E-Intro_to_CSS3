@@ -4,19 +4,22 @@
 
 /* nav a {
   text-decoration: none;
-} */
-
-/* li {
   background-color: yellow;
 } */
 
+
 /* ul {
-  list-style-type: none;
   display: flex;
-  justify-content: space-between;
+  flex-direction: row;
+  justify-content: space-evenly;
+} */
+
+/* li {
+    list-style-type: none;
 } */
 
 /* .current {
   text-transform: uppercase;
   background-color: lightgray;
+  border-bottom: 2px solid black;
 } */
