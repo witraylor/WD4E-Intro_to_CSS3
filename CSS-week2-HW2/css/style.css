@@ -57,10 +57,10 @@ p{
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-  column-gap: 100px;
+  column-gap: 5%;
 }
 
 div img{
-  width: 10%;
+  width: 150px;
   height: 200px;
 }
