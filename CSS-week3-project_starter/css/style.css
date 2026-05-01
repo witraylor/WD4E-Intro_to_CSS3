@@ -106,6 +106,7 @@ a{
 .flex img{
     width: 15vw;
     height: 20vh;
+    object-fit: cover;
 }
 
 div img:nth-child(odd){
